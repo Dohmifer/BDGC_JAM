@@ -3856,3 +3856,39 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/TMP_SelectionCaret.cs: ed141b1915a10b9c7ff9136666b54ee9 -> d2a06fefe973175bffa10d62f788c481
   custom:scripting/monoscript/fileName/ProBuilderSettingsProvider.cs: 31c7f11630ae278eb11b8b1b3b44c0ad -> 
   custom:scripting/monoscript/fileName/CollapseVertices.cs: b8f4877fb9cdb02e00dd9b33b403fa7c -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4697.911126 seconds.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(d3c40042f9bd5f349a2d4cb1a975cbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(d3c40042f9bd5f349a2d4cb1a975cbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5db7a55c486ccb03b18f89bc979e4cb8') in 0.274940 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 12.552724 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4b68b9603c0bf85852985c520e88c8e0') in 0.000723 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.380116 seconds.
+  path: Assets/Scenes/SampleScene 1.unity
+  artifactKey: Guid(0a1f03d6fe8a39a479a04d687ffa098c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene 1.unity using Guid(0a1f03d6fe8a39a479a04d687ffa098c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dd6084fa605d347f4c20abb224f9a4b6') in 0.000615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.302973 seconds.
+  path: Assets/Scenes/TrialScene_Adi.unity
+  artifactKey: Guid(0a1f03d6fe8a39a479a04d687ffa098c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TrialScene_Adi.unity using Guid(0a1f03d6fe8a39a479a04d687ffa098c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'df14414b43afdaaf85be10f880d2257e') in 0.000768 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
