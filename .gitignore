@@ -69,12 +69,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
-BDGC_JAM/Library/*
-BDGC_JAM/Temp/*
-BDGC_JAM/Logs/AssetImportWorker0.log
-BDGC_JAM/Logs/AssetImportWorker1.log
-BDGC_JAM/Logs/shadercompiler-AssetImportWorker0.log
-BDGC_JAM/Logs/shadercompiler-UnityShaderCompiler.exe0.log
-BDGC_JAM/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+BDGC/Library/Artifacts/*
+BDGC/Library/*
