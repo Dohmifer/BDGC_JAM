@@ -73,3 +73,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 BDGC_JAM/Library/*
 BDGC_JAM/Temp/*
+BDGC_JAM/Logs/AssetImportWorker0.log
+BDGC_JAM/Logs/AssetImportWorker1.log
+BDGC_JAM/Logs/shadercompiler-AssetImportWorker0.log
+BDGC_JAM/Logs/shadercompiler-UnityShaderCompiler.exe0.log
